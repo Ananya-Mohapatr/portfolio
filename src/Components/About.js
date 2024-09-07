@@ -10,7 +10,7 @@ const About = () => {
     <div className='absolute bg-customColor backdrop-filter backdrop-blur-sm opacity-120 text-white  p-10 m-[10%] ml-[10%] backdrop-filter rounded-lg mt-40   ////hover:my-rotate-y-180'
     >
          <h1 className='font-bold text-3xl opacity-100 text-center '>Hi! This is Ananya Mohapatra 👋</h1>
-        <div  className='pt-5'><p className="text-center text-lg">I am a Software Developer, specializing in banking-related projects.<br/>
+        <div  className='pt-5'><p className="text-center text-lg">I am a Software Developer, specializing in Frontend Development.<br/>
             With a passion for crafting intuitive user experiences and a keen eye for design, I thrive on translating complex financial systems into seamless interfaces. From wireframes to pixel-perfect implementations, I bring a blend of creativity and technical skill to every project. Let's collaborate to build user-centric solutions that redefine user experience for the digital age.
 
 </p><br/>
