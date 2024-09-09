@@ -3,7 +3,7 @@ import samplePDF1 from './Ananya Mohapatra - Frontend Dev.pdf'
 
 const Header = () => {
   return (
-    <div className='fixed  z-50 w-full h-15 overflow-hidden bg-gradient-to-r from-neutral-800 to-sky-700 bg-opacity-95 text-white flex justify-evenly mb-10'>
+    <div className='navbar-container fixed  z-50 w-full h-15 overflow-hidden bg-gradient-to-r from-neutral-800 to-sky-700 bg-opacity-95 text-white flex justify-evenly mb-10'>
           <h1 className='font-bold text-3xl p-4 m-4'>PortFolio of Ananya Mohapatra</h1>
           <div className='flex  p-4 m-4'>
             <h3 className='font-bold text-xl pl-2.5 '>Download Resume</h3>

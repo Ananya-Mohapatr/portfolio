@@ -5,6 +5,7 @@ import About from './About'
 import Introduction from './Introduction'
 import WorkExperience from './WorkExperience'
 import Skills from './Skills'
+import Education from './Education'
 
 const MainBody = () => {
   return (
@@ -15,6 +16,7 @@ const MainBody = () => {
     <br></br>
     <Introduction/>
     <WorkExperience/>
+    <Education/>
     <Skills/>
     <br/>
     

@@ -1,35 +1,31 @@
 import React from 'react'
 
-const Skills = () => {
+const Education = () => {
   const educationList = [
     {
       id:1,
-      skill:'React JS',
+      type:'Bachelor of Technology',
+      school:'Veer Surendra Sai University of Technology, Burla ',
+      year:'2017 - 2021',
+      specs:'Graduated in Mechanical Engineering'
     },
     {
       id:2,
-      skill:'Node JS'
+      type:'Higher Secondary School',
+      school:'DAV Public School',
+      year:'2015 - 2017',
+      specs:'Completed High school with PCMC as major'
     },
     {
-      id:1,
-      skill:'React JS'
-    },
-    {
-      id:1,
-      skill:'React JS'
-    },
-    {
-      id:1,
-      skill:'React JS'
-    },
-    {
-      id:1,
-      skill:'React JS'
-    },
-    
+      id:3,
+      type:'Senior Secondary School',
+      school:'DAV Public School ',
+      year:'2013 - 2015',
+      specs:''
+    }
   ]
     return (
-        <div className='absolute justify-center bg-customColor backdrop-filter rounded-lg backdrop-blur-sm opacity-120 text-white w-[80%] p-10 ml-[10%] mr-[5%] m-[20%] backdrop-filter    sm:object md:mt-[300%] sm:mt-[340%] lg:mt-[130%] 
+        <div className='absolute justify-center bg-customColor backdrop-filter rounded-lg backdrop-blur-sm opacity-120 text-white w-[80%] p-10 ml-[10%] mr-[5%] m-[20%] backdrop-filter    sm:object md:mt-[300%] sm:mt-[340%] lg:mt-[110%] 
          ////hover:my-rotate-y-180'
         >
           <h1 className='font-bold pl-10 text-3xl opacity-100 text-left'>Education</h1>
@@ -55,4 +51,4 @@ const Skills = () => {
           )
 }
 
-export default Skills
+export default Education
