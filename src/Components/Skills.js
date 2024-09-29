@@ -54,7 +54,7 @@ const Skills = () => {
 
   ]
   return (
-    <div className='absolute justify-center bg-customColor backdrop-filter  rounded-lg backdrop-blur-sm opacity-120 text-white w-[80%] p-10 ml-[10%] mr-[5%] m-[20%] backdrop-filter    sm:object md:mt-[320%] sm:mt-[340%] lg:mt-[130%] 
+    <div className='absolute justify-center bg-customColor  rounded-lg backdrop-blur-sm opacity-120 text-white w-[80%] p-10 ml-[10%] mr-[5%] m-[20%] backdrop-filter    sm:object md:mt-[320%] sm:mt-[340%] lg:mt-[130%] 
          ////hover:my-rotate-y-180'
     >
       <h1 className='font-bold pl-10 text-3xl opacity-100 text-left'>SKILLS</h1>

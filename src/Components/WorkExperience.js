@@ -2,7 +2,7 @@ import React from 'react'
 
 const WorkExperience = () => {
   return (
-    <div className='absolute justify-center bg-customColor backdrop-filter rounded-lg backdrop-blur-sm opacity-120 text-white  p-10 ml-[10%] mr-[10%] m-[20%] backdrop-filter  lg:flex md:flex  sm:object md:mt-[210%] sm:mt-[265%] lg:mt-[77%] 
+    <div className='absolute justify-center bg-customColor backdrop-filter rounded-lg backdrop-blur-sm opacity-120 text-white  p-10 ml-[10%] mr-[10%] m-[20%] backdrop-filter  lg:flex md:flex  sm:object md:mt-[210%] sm:mt-[265%] lg:mt-[82%] 
      ////hover:my-rotate-y-180'
     >
       {/* <img src={photo} className='h-[10%] lg:w-[20%] rounded-lg sm:w-[50%] sm:grid sm:mx-auto'/> */}
