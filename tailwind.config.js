@@ -17,6 +17,9 @@ module.exports = {
       colors: {
         customColor: 'hsla(0, 39%, 67%, .233)', // Define your custom HSLA color
       },
+      backgroundImage:{
+        'contactImg':"url('/src/assets/1530x900-horizontal-2021-04-30T110441.108.jpg.webp')"
+      }
     },
   },
   plugins: [MyClass],

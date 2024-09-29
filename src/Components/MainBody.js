@@ -6,11 +6,12 @@ import Introduction from './Introduction'
 import WorkExperience from './WorkExperience'
 import Skills from './Skills'
 import Education from './Education'
+import ContactDetails from './ContactDetails'
 
 const MainBody = () => {
   return (
     < div >
-    <img className='fixed w-screen h-screen ' src={img} alt='image'></img>
+    <img className='fixed w-screen h-screen ' src={img} alt=''></img>
     <Header/>
     <About/>
     <br></br>
@@ -18,8 +19,8 @@ const MainBody = () => {
     <WorkExperience/>
     <Education/>
     <Skills/>
+    <ContactDetails/>
     <br/>
-    
     </div>
   )
 }

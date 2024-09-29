@@ -6,7 +6,7 @@ const Introduction = () => {
         <div className='absolute justify-center bg-customColor backdrop-filter rounded-lg backdrop-blur-sm opacity-120 text-white  p-10 ml-[10%] mr-[10%] m-[10%] backdrop-filter  lg:flex md:flex  sm:object md:mt-[80%] sm:mt-[90%] lg:mt-[37%] 
          ////hover:my-rotate-y-180'
         >
-            <img src={photo} className='h-[10%] lg:w-[20%] rounded-lg md:w-[50%] md:grid md:mx-auto sm:w-[50%] sm:grid sm:mx-auto'/>
+            <img src={photo} className='h-[10%] lg:w-[20%] rounded-lg md:w-[25%] md:block md:mx-auto sm:w-[50%] sm:grid sm:mx-auto'/>
             {/* <img src={photo}/> */}
            <div className=''>
              <h1 className='font-bold pl-10 text-3xl opacity-100 text-left'>About Me</h1>
