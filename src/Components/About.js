@@ -17,9 +17,9 @@ const About = () => {
 <p className="text-center text-lg pb-5">In my available time,I like to learn new skills ,cooking, gardening.</p></div>
 <ul className='flex justify-center mt-55'>
   
-    <a href='https://www.linkedin.com/in/ananya-mohapatra-ab93471b3/' className='size-11 hover:scale-125 transition-all duration-500 cursor-pointer'><img src={linkedin} alt='linkedin'/></a>
-    <a href='https://www.instagram.com/2710ananya_/' className='size-12 ml-2 hover:scale-125 transition-all duration-500 cursor-pointer '><img src={instagram}/></a>
-    <a href='https://github.com/Ananya-Mohapatr' className='-mt-2 size-13 hover:scale-125 transition-all duration-500 cursor-pointer'><img src={github} alt='linkedin'/></a>
+    <a href='https://www.linkedin.com/in/ananya-mohapatra-ab93471b3/' target='_blank' className='size-11 hover:scale-125 transition-all duration-500 cursor-pointer'><img src={linkedin} alt='linkedin'/></a>
+    <a href='https://www.instagram.com/2710ananya_/' target='_blank' className='size-12 ml-2 hover:scale-125 transition-all duration-500 cursor-pointer '><img src={instagram}/></a>
+    <a href='https://github.com/Ananya-Mohapatr' target='_blank' className='-mt-2 size-13 hover:scale-125 transition-all duration-500 cursor-pointer'><img src={github} alt='linkedin'/></a>
     
 </ul>
     </div>
